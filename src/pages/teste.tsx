@@ -18,11 +18,11 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
-            <code className={styles.code}>src/pages/index.tsx</code>
+            <code className={styles.code}>src/pages/teste.tsx</code>
           </p>
           <div>
             <a
-              href="/teste"
+              href="/"
               target="_blank"
               rel="noopener noreferrer"
             >
